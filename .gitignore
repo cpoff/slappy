@@ -1,0 +1,5 @@
+config.js
+index.js
+core/*
+npm-shrinkwrap.json
+Gruntfile.js
