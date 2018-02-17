@@ -6,4 +6,4 @@
 
 ## Getting Started
 - [Remix this project](https://glitch.com/edit/#!/remix/ghost/9a2033a3-30d8-4658-93a8-3b5073c73237)
-- Once the app shows 'Live', then click 'Show' and go to '/ghost' to create your Admin user
+- Once the app shows 'Live', click 'Show' and go to '/ghost' to create your Admin user
