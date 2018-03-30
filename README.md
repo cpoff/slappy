@@ -4,6 +4,6 @@
 
 ![Ghost is a simple, powerful publishing platform that allows you to share your stories with the world.](https://cloud.githubusercontent.com/assets/120485/6626501/b2bb072c-c8ff-11e4-8e1a-2e78e68fd5c3.png)
 
-## Getting Started
+## Getting Starteds
 - [Remix this project](https://glitch.com/edit/#!/remix/ghost/9a2033a3-30d8-4658-93a8-3b5073c73237)
 - Once the app shows 'Live', click 'Show' and go to '/ghost' to create your Admin user
